@@ -1,0 +1,1 @@
+# 3-descente_de_gradient_AD
